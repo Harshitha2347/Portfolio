@@ -220,6 +220,52 @@ function App() {
             ))}
           </div>
         </motion.section>
+                {/* EXPERIENCE */}
+        <motion.section {...sectionAnimation} style={{ marginBottom: "120px" }}>
+          <h2 style={{ marginBottom: "40px" }}>Experience</h2>
+
+          <div style={{ display: "flex", flexDirection: "column", gap: "24px" }}>
+            <div
+              style={{
+                background: "#020617",
+                border: "1px solid #0ea5e9",
+                borderRadius: "18px",
+                padding: "28px"
+              }}
+            >
+              <h3>Junior Software Intern</h3>
+              <p style={{ color: "#7dd3fc" }}>
+                Easy Design Systems · May 2025 – June 2025
+              </p>
+              <p style={{ marginTop: "10px", lineHeight: "1.7" }}>
+                Contributed to an enterprise-level project with hands-on
+                experience in GraphQL APIs, frontend development, and
+                C# backend systems. Gained exposure to collaborative
+                development and production-grade workflows.
+              </p>
+            </div>
+
+            <div
+              style={{
+                background: "#020617",
+                border: "1px solid #22c55e",
+                borderRadius: "18px",
+                padding: "28px"
+              }}
+            >
+              <h3>Virtual Intern – AI & Automation</h3>
+              <p style={{ color: "#86efac" }}>
+                Infosys · Ongoing
+              </p>
+              <p style={{ marginTop: "10px", lineHeight: "1.7" }}>
+                Currently building an ambient intelligent agent using
+                LangGraph for an email assistant. The work involves
+                orchestrating LLM-driven workflows, contextual reasoning,
+                and automation to enhance enterprise email handling.
+              </p>
+            </div>
+          </div>
+        </motion.section>
 
         {/* CERTIFICATIONS */}
         <motion.section {...sectionAnimation} style={{ marginBottom: "120px" }}>
