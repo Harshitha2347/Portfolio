@@ -41,7 +41,7 @@ function App() {
             }}
           >
             Data Science student with hands-on experience in machine learning,
-            deep learning, and intelligent systems. I enjoy working on
+            deep learning, and intelligent systems. I'm interested in working on
             real-world, data-driven problems through practical experimentation,
             model development, and continuous learning, with a focus on building
             scalable and impactful solutions.
