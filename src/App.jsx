@@ -112,16 +112,14 @@ function App() {
               "Machine Learning",
               "Deep Learning",
               "Artificial Intelligence",
+              "Computer Vision",
               "Data Analytics",
-              "Statistical Inference",
-              "Big Data",
               "Image Processing",
               "Python",
               "SQL",
               "C#",
               "GraphQL",
               "Frontend Development",
-              "LangGraph",
               "LLM-based Systems"
             ].map((skill, i) => (
               <span
