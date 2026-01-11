@@ -243,7 +243,7 @@ function App() {
                 fontSize: "15.5px"
               }}
             >
-             ·Deep learning for Computer Vision ·AI concepts and techniques · Data Analytics with Excel· Python for Data Science	            with ExcelPython for Data Science
+             ·Deep learning for Computer Vision ·AI concepts and techniques · Data Analytics with Excel· Python for Data Science
 
             </p>
           </div>
